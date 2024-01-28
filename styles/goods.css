@@ -1,0 +1,19 @@
+#products {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#products .container {
+  display: flex;
+  flex-direction: row;
+  border: 5px solid #7f00ff;
+  flex-wrap: nowrap;
+}
+#products .container .img {
+  padding: 10px;
+  width: 200px;
+  font-size: 60px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=goods.css.map */
